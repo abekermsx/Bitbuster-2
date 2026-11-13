@@ -19,6 +19,7 @@
 
 #include <string.h>
 #include "OptionParser.h"
+#include <cstring>
 
 OptionParser::OptionParser( int argc, char ** argv)
 {

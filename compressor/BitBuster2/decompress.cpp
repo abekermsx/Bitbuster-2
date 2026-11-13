@@ -22,6 +22,7 @@
 
 
 #include "decompress.h"
+#include <cstring>
 
 
 
